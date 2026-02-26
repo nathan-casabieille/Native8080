@@ -1,6 +1,14 @@
-# Native8080
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset=".github/images/logo.png">
+    <source media="(prefers-color-scheme: dark)" srcset=".github/images/logo.png">
+    <img alt="Native8080 Logo" src=".github/images/logo.png" width="80%">
+  </picture>
+</div>
 
-A modular Intel 8080 CPU emulator written in modern C++20, with basic CP/M BDOS support.
+<div align="center">
+  <h3>A modular Intel 8080 CPU emulator written in modern C++20, with basic CP/M BDOS support.</h3>
+</div>
 
 ## Features
 
