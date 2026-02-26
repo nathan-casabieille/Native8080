@@ -1,0 +1,27 @@
+# ── Build artefacts ───────────────────────────────────────────────────────────
+build/
+cmake-build-*/
+*.o
+*.a
+*.so
+*.dylib
+
+# CMake generated files (if building in-source, which we discourage)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+install_manifest.txt
+
+# ── Compiled binaries ────────────────────────────────────────────────────────
+native8080
+native8080.exe
+
+# ── Editor / IDE ──────────────────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
